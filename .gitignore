@@ -1,2 +1,5 @@
 application/cache/*
 application/logs/*
+
+alsocan/webroot/assets/*
+.DS_Store
